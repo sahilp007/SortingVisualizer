@@ -2,8 +2,8 @@ import React from 'react';
 import {getMergeSortAnimations} from '../sortingAlgorithms/sortingAlgorithms.js';
 import './SortingVisualizer.css';
 
-const ANIMATION_SPEED_MS = .5;
-const NUMBER_OF_ARRAY_BARS = 1930;
+const ANIMATION_SPEED_MS = 3;
+const NUMBER_OF_ARRAY_BARS = 730;
 const PRIMARY_COLOR = '#00D1C5';
 const SECONDARY_COLOR = 'red';
 
