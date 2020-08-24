@@ -3,7 +3,7 @@ import {getMergeSortAnimations} from '../sortingAlgorithms/sortingAlgorithms.js'
 import './SortingVisualizer.css';
 
 const ANIMATION_SPEED_MS = 3;
-const NUMBER_OF_ARRAY_BARS = 730;
+const NUMBER_OF_ARRAY_BARS = 300;
 const PRIMARY_COLOR = '#00D1C5';
 const SECONDARY_COLOR = 'red';
 
